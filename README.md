@@ -34,3 +34,35 @@ Here are some ideas to get you started:
 #### About me 
 [![ERNO's GitHub stats](https://github-readme-stats.vercel.app/api?username=ERNO1997&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ERNO1997&langs_count=10&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+# 👋 Hola, soy Ernesto J. Pérez  
+Soy **Frontend Developer especializado en Vue 3, Vite y Vuetify**, con más de 8 años de experiencia en desarrollo de software.  
+Actualmente enfocado en construir interfaces modernas, escalables y de alto rendimiento.  
+
+## 🚀 Stack principal
+- **Frontend:** Vue 3, Vite, Vuetify, JavaScript, TypeScript, HTML5, CSS3  
+- **Backend (experiencia previa):** Spring Boot, PHP, Django  
+- **Otros:** Docker, Git, PostgreSQL, MySQL, APIs REST  
+
+## 🛠️ Proyectos recientes
+> Algunos de mis proyectos anteriores fueron privados, así que aquí muestro ejemplos personales y prácticos que validan mis conocimientos actuales.
+
+- 📊 **Dashboard de analítica** (Vue 3 + Vite + Vuetify + Chart.js)  
+  Aplicación SPA para visualizar métricas en tiempo real.  
+- 🛒 **E-commerce básico** (Vue 3 + Pinia + Firebase)  
+  Catálogo, carrito, autenticación y pagos simulados.  
+- ✅ **Gestor de tareas con autenticación** (Vue 3 + Supabase)  
+  CRUD completo con login/register y UI responsiva.  
+- 🎨 **UI Components Library** (Vue 3 + Vuetify)  
+  Colección de componentes reutilizables con documentación.  
+
+## 📈 Competencias destacadas
+- Desarrollo frontend con Vue 3, Vite y Vuetify.  
+- Buenas prácticas de arquitectura y escalabilidad.  
+- Diseño UI/UX enfocado en experiencia del usuario.  
+- Trabajo en equipo y metodologías ágiles (Scrum).  
+
+## 📫 Conecta conmigo
+- [LinkedIn](#)  
+- [Portafolio](#)  
+- [Email](mailto:ejperezv1997@gmail.com)  
