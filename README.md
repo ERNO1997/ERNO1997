@@ -1,68 +1,184 @@
-### Hi there I'm [ERNO!](https://t.me/ERNO_97)👋
+# 👋 Hi, I'm Ernesto J. Pérez  
 
-My name is Ernesto J. Pérez, I am a self-taught developer from Cuba. I'm in fourth year of an Informatic Engineering at [Universidad de las Ciencias Informáticas](https://www.uci.cu).
+I'm a **Fullstack Developer (Mid/Senior)** with over 9 years of experience in software development.  
+Currently, I specialize in **Frontend with Vue 3 + Vite + Vuetify**, while also having hands-on experience with **backend, mobile, and scalable systems**.  
 
-- 🌱 I’m currently learning about Flutter, Design Patterns and Software architectures.
+I'm passionate about building **robust, modern, and user-centered applications**, always applying best practices in architecture, design, and performance.  
 
-<!--
-**ERNO1997/ERNO1997** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 🚀 Technologies I have worked with
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔹 Frontend
+- Vue 3, Vite, Vuetify, JavaScript (ES6+), TypeScript
+- HTML5, CSS3, Bootstrap, Tailwind
+- UI/UX, responsive design, accessibility
 
-**Languages and Tools:**  
+### 🔹 Backend
+- Java (Spring Boot, Maven, Microservices)
+- PHP (Legacy projects alongside jQuery)
+- Python (Django)
+- REST APIs, JWT authentication, third-party integrations
 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code> 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/django/django.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/angular/angular.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"></code> 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png"></code> 
+### 🔹 Mobile
+- Flutter (Dart) – cross-platform apps
+- Android (Java and Kotlin) – native apps
 
+### 🔹 Databases
+- Relational: MySQL, PostgreSQL
+- NoSQL: Firebase
 
-#### About me 
-[![ERNO's GitHub stats](https://github-readme-stats.vercel.app/api?username=ERNO1997&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ERNO1997&langs_count=10&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+### 🔹 Infrastructure & DevOps
+- Docker, Kubernetes
+- CI/CD (GitHub Actions)
+- AWS
 
-# 👋 Hola, soy Ernesto J. Pérez  
-Soy **Frontend Developer especializado en Vue 3, Vite y Vuetify**, con más de 8 años de experiencia en desarrollo de software.  
-Actualmente enfocado en construir interfaces modernas, escalables y de alto rendimiento.  
+### 🔹 Others
+- Git (professional branching workflows)
+- Testing (Cypress, JUnit, Pytest)
+- Agile methodologies (Scrum, Kanban)
 
-## 🚀 Stack principal
-- **Frontend:** Vue 3, Vite, Vuetify, JavaScript, TypeScript, HTML5, CSS3  
-- **Backend (experiencia previa):** Spring Boot, PHP, Django  
-- **Otros:** Docker, Git, PostgreSQL, MySQL, APIs REST  
+---
 
-## 🛠️ Proyectos recientes
-> Algunos de mis proyectos anteriores fueron privados, así que aquí muestro ejemplos personales y prácticos que validan mis conocimientos actuales.
+## 🎯Soft Skills
+- Strong teamwork and cross-cultural collaboration
+- Leadership and mentoring in agile teams
+- Problem-solving and critical thinking under pressure
+- Best practices in architecture, microservices, and scalability
+- Effective communication with technical and non-technical stakeholders
+- Real-world experience in e-commerce, SaaS, mobile apps, and healthcare systems
 
-- 📊 **Dashboard de analítica** (Vue 3 + Vite + Vuetify + Chart.js)  
-  Aplicación SPA para visualizar métricas en tiempo real.  
-- 🛒 **E-commerce básico** (Vue 3 + Pinia + Firebase)  
-  Catálogo, carrito, autenticación y pagos simulados.  
-- ✅ **Gestor de tareas con autenticación** (Vue 3 + Supabase)  
-  CRUD completo con login/register y UI responsiva.  
-- 🎨 **UI Components Library** (Vue 3 + Vuetify)  
-  Colección de componentes reutilizables con documentación.  
+---
 
-## 📈 Competencias destacadas
-- Desarrollo frontend con Vue 3, Vite y Vuetify.  
-- Buenas prácticas de arquitectura y escalabilidad.  
-- Diseño UI/UX enfocado en experiencia del usuario.  
-- Trabajo en equipo y metodologías ágiles (Scrum).  
+<!-- ## 🛠️ Highlighted Projects (personal demos + previous work)
 
-## 📫 Conecta conmigo
-- [LinkedIn](#)  
-- [Portafolio](#)  
-- [Email](mailto:ejperezv1997@gmail.com)  
+Since many of my professional projects are private, here are examples that showcase my skills:
+
+🔹 Apps Realistas (para mostrar nivel Mid/Senior)
+
+Campaign Manager (Ad Tracking Platform)
+
+Stack: Vue 3 + Vuetify (frontend), Spring Boot + PostgreSQL (backend).
+
+Features:
+
+Crear campañas con presupuesto, fechas y público objetivo.
+
+Dashboard con métricas en tiempo real (CTR, impresiones, conversiones).
+
+Roles de usuario (admin, marketer).
+
+Por qué es realista: Se parece a lo que hiciste en tu último trabajo con marketing de afiliados.
+
+Mini ERP para Pymes (Inventario + Ventas + Facturación)
+
+Stack: Vue 3 + Tailwind (frontend), Django + PostgreSQL (backend).
+
+Features:
+
+Gestión de inventario con alertas de stock bajo.
+
+Generación de facturas PDF.
+
+Panel de clientes/proveedores.
+
+Por qué es realista: Los ERPs son una necesidad constante de pequeñas empresas.
+
+Medical Appointment Scheduler
+
+Stack: Vue 3 + Vuetify (frontend), Spring Boot (backend).
+
+Features:
+
+Agenda para doctores con disponibilidad configurable.
+
+Reservas de pacientes con notificación por correo.
+
+Dashboard para administrar salas, doctores y horarios.
+
+Por qué es realista: Conecta con tu experiencia previa en sistemas médicos.
+
+Multi-API Analytics Hub
+
+Stack: Vue 3 + Vite + Chart.js (frontend), Node.js/Express (backend).
+
+Features:
+
+Conectar APIs externas (ej. clima, Google Trends, finanzas).
+
+Unificar datos en dashboards customizables.
+
+Exportar datos a CSV/Excel.
+
+Por qué es realista: Muestra integración de terceros y tu experiencia en analítica.
+
+🔹 Landing Pages (para portafolio + freelancing)
+
+SaaS Landing Page (Tech Startup Style)
+
+Stack: Vue 3 + Tailwind.
+
+Features:
+
+Hero section con call-to-action.
+
+Pricing tiers con plan free/premium.
+
+FAQ, Contact form (con Firebase backend).
+
+Por qué sirve: Muy similar a lo que piden startups y SaaS reales.
+
+Product Landing Page (E-commerce style)
+
+Stack: Vue 3 + Vuetify.
+
+Features:
+
+Showcase de un producto físico (ej: smartwatch).
+
+Sección de features + video demo.
+
+Testimonios de clientes.
+
+Botón “Buy Now” conectado a Stripe.
+
+Por qué sirve: Te entrena para clientes de dropshipping/e-commerce.
+
+Event Landing Page (Conference / Festival)
+
+Stack: Vue 3 + Bootstrap 5.
+
+Features:
+
+Hero con cuenta regresiva.
+
+Agenda dinámica (ej. keynotes, workshops).
+
+Formulario de inscripción (con Firebase/EmailJS).
+
+Por qué sirve: Muy demandado por eventos locales/empresas pequeñas.
+
+🔹 Estrategia para tu portafolio/GitHub
+
+Haz al menos 2 apps realistas (Campaign Manager + ERP Mini).
+
+Haz al menos 2 landing pages (una SaaS y una Event).
+
+Deploy todas en Netlify/Vercel y ponlas en tu portafolio con capturas bonitas.
+
+Cada repo con README pro en inglés + screenshots/gif.
+
+📌 Con esto:
+
+Validarás tu seniority técnico con proyectos grandes.
+
+Tendrás proyectos pequeños y vendibles para ofrecer como freelance.
+
+Tu GitHub y portafolio tendrán un balance entre lo técnico y lo práctico/comercial.
+
+--- -->
+
+## 📫 Let's Connect
+- 🌐 [Portfolio](#)  
+- 💼 [LinkedIn](#)  
+- 📧 [ejperezv1997@gmail.com](mailto:ejperezv1997@gmail.com)
